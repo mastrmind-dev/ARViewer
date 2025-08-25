@@ -1,4 +1,3 @@
-import React from "react";
 import ModelViewerWrapper from "./components/ModelViewerWrapper";
 
 const App = () => {
