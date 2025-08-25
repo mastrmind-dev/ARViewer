@@ -1,11 +1,12 @@
-import ModelViewerWrapper from "./components/ModelViewerWrapper";
+import "./App.css";
+import ARViewer from "./components/ARViewer";
 
-const App = () => {
+function App() {
   return (
     <div>
-      <ModelViewerWrapper />
+      <ARViewer />
     </div>
   );
-};
+}
 
 export default App;
